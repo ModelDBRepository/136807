@@ -1,0 +1,1 @@
+By default the simulation will output all GNU plots and scripts here.
